@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  background-color: #f1f1f1;
 }
 
 .App-logo {
@@ -36,3 +37,18 @@
     transform: rotate(360deg);
   }
 }
+
+/* For Add.js */
+.Minus {
+  background-color: red;
+}
+
+.Add {
+  background-color: greenyellow;
+}
+
+.Centering {
+  background-color: #f1f1f1;
+}
+
+
